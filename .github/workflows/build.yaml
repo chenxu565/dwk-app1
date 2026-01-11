@@ -34,3 +34,4 @@ jobs:
         with:
           add: "kustomization.yaml"
           message: "Update image to $GITHUB_SHA"
+          author_name: "github-actions"
