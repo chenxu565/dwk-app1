@@ -6,4 +6,4 @@ resources:
 images:
 - name: PROJECT/IMAGE
   newName: cxu354/dwk1
-  newTag: 0f12caf12c64209530fbf671ca915e9c63d02f25
+  newTag: b967ffd07a1e376911a156cb17e4ace070cb56d5
